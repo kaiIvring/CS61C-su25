@@ -1,0 +1,20 @@
+OSTYPE='msys'
+BASH_VERSION='GNU bash, version 5.2.26(1)-release (x86_64-pc-msys)
+Copyright (C) 2022 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+
+This is free software; you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.'
+SH_VERSION='GNU bash, version 5.2.26(1)-release (x86_64-pc-msys)
+Copyright (C) 2022 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+
+This is free software; you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.'
+GIT_VERSION='git version 2.46.0.windows.1'
+PYTHON3_VERSION='Python 3.9.13'
+PYTHON_VERSION='Python 3.12.6'
+PY_VERSION='Python 3.12.6'
+JAVA_VERSION='openjdk version "21.0.6" 2025-01-21 LTS
+OpenJDK Runtime Environment Temurin-21.0.6+7 (build 21.0.6+7-LTS)
+OpenJDK 64-Bit Server VM Temurin-21.0.6+7 (build 21.0.6+7-LTS, mixed mode, sharing)'
